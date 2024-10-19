@@ -1,5 +1,5 @@
 # gh-repo-shipper
-[gh-repo-shipper](./github/workflows/gh-repo-shipper.yml) is a Github Actions Workflow that archives the repository and uploads it to an S3 bucket.
+[gh-repo-shipper](github/workflows/gh-repo-shipper.yml) is a Github Actions Workflow that archives the repository and uploads it to an S3 bucket.
 
 ## Requirements
 It requires the following secrets to be configured on the repository:
